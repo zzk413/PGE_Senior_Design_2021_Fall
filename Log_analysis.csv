@@ -1,15 +1,15 @@
 name,shale_gr,shale_density,shale_neutron,shale_resistivity,sand_gr,notes
-adickes_bettge1,,,,,,
-arnold1,112,0.04,0.312,3,28.7,
-arnold2,96.7,0.07,0.29,3.6,28.9,
+adickes_bettge1,139,0.05,0.33,2.73,36,
+arnold1,112,0.04,0.31,3,29,
+arnold2,96.7,0.07,0.29,3.6,29,
 bettge1,98,0.04,0.32,3,18,Resistivity values for shale is sketchy. Ask Daigle during OH
-bettge2,110,0.04,0.3,3.6,,we don't know if there is clean sand. Ask Daigle during OH
-bettge3,99,0.077,0.033,,,
-bettge4,117,0.04,0.28,3.5,44,
-bettge5,119,0.06,0.34,2.9,,
-bettge6,,,,,,
-brandt1,,,,,,
-brandt2,,,,,,
-brandt3,,,,,,
-migura1,,,,,,
+bettge2,110,0.04,0.3,3.6,18,we don't know if there is clean sand. Ask Daigle during OH
+bettge3,99,0.08,0.03,3.15,27,
+bettge4,117,0.04,0.28,3.5,44,Ask daigle
+bettge5,119,0.06,0.34,2.9,34,
+bettge6,110,0.07,0.34,2.81,37,
+brandt1,111,0.07,0.3,3.31,29,
+brandt2,122,0.08,0.31,3.775,29,ask daigle about missing shale density 
+brandt3,114,0.09,0.32,4.24,29,
+migura1,118,0.02,0.35,3.44,,zone of interest is the shale free zone. Ask daigle
 warwas1,111,0.07,0.31,2.9,44,
